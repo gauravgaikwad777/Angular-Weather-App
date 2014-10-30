@@ -19,4 +19,5 @@ If favorite not selected, display info for default location as Normal, IL
 
 
 Just Put this folder in your server folder and run index.html from localhost 
+
 Have created this with WAMP server and also tested on Grunt and HTTP Server
